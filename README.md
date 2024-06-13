@@ -32,11 +32,11 @@ Download link: [https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEky
 - Mobile-friendly leave request submission
 - Real-time leave balance tracking
 
-## Technologies Used
 
-- React Native
-- Expo
-- JavaScript
+## Technologies Used
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Installation
 
