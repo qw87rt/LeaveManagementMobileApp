@@ -18,9 +18,14 @@ Download link: [https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEky
 
 ## Screenshots
 
-![Screenshot 1](./assets/images/img1.jpg)
-![Screenshot 2](./assets/images/img2.jpg)
-![Screenshot 3](./assets/images/img3.jpg)
+<table>
+  <tr>
+    <td><img src="./assets/images/img1.png" alt="Screenshot 1" width="300"></td>
+    <td><img src="./assets/images/img2.png" alt="Screenshot 2" width="300"></td>
+    <td><img src="./assets/images/img3.png" alt="Screenshot 3" width="300"></td>
+  </tr>
+</table>
+
 
 ## Key Features
 
