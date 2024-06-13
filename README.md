@@ -20,9 +20,9 @@ Download link: [https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEky
 
 <table>
   <tr>
-    <td><img src="./assets/images/img1.png" alt="Screenshot 1" width="300"></td>
-    <td><img src="./assets/images/img2.png" alt="Screenshot 2" width="300"></td>
-    <td><img src="./assets/images/img3.png" alt="Screenshot 3" width="300"></td>
+    <td><img src="./assets/images/img1.jpg" alt="Screenshot 1" width="300"></td>
+    <td><img src="./assets/images/img2.jpg" alt="Screenshot 2" width="300"></td>
+    <td><img src="./assets/images/img3.jpg" alt="Screenshot 3" width="300"></td>
   </tr>
 </table>
 
