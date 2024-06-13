@@ -4,6 +4,8 @@ The Streamlined Leave Management System is a mobile application developed using 
 
 Download link: [https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEkyQts-s2j0g](https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEkyQts-s2j0g)
 
+> Note: The file responsible for sending and fetching data is located at `components/servercon/api.js`. The actual base URL configuration has been omitted for privacy reasons.
+
 ## Table of Contents
 
 - [Screenshots](#screenshots)
