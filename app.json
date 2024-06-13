@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Mobile Leave App",
+    "slug": "MobileLeaveManagement",
+    "icon": "./assets/launcher/icon.png",
+    "extra": {
+      "eas": {
+        "projectId": "c9875f86-79e7-43c1-937d-9fabb03d6093"
+      }
+    },
+    "android": {
+      "package": "com.jhunray889.MobileLeaveManagement",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/launcher/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    }
+  }
+}
