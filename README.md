@@ -1,6 +1,6 @@
 # Streamlined Leave Management System
 
-The Streamlined Leave Management System is a mobile application developed using React Native with Expo. It is designed to simplify and optimize the employee leave management process for the Local Government Unit (LGU) of Maasin City.
+The Streamlined Leave Management System is a mobile application developed using React Native with Expo. It is designed to simplify and optimize the employee leave management process.
 
 Download link: [https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEkyQts-s2j0g](https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEkyQts-s2j0g)
 
