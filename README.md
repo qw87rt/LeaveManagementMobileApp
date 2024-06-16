@@ -6,10 +6,9 @@ APK Download link: [https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7
 
 > Note: The file responsible for sending and fetching data is located at `components/servercon/api.js`. The actual base URL configuration has been omitted for privacy reasons.
 
+[Click here to access the REST API Repository](https://github.com/qw87rt/Expressjs--LeaveManagement_restapi)
 
-[REST API](https://github.com/qw87rt/Expressjs--LeaveManagement_restapi)
-
-[Desktop App](https://github.com/qw87rt/VB.NET--LeaveManagementPC)
+[or click here to access the Desktop App repo](https://github.com/qw87rt/VB.NET--LeaveManagementPC)
 
 
 ## Table of Contents
