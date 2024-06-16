@@ -2,9 +2,15 @@
 
 The Streamlined Leave Management System is a mobile application developed using React Native with Expo. It is designed to simplify and optimize the employee leave management process.
 
-Download link: [https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEkyQts-s2j0g](https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEkyQts-s2j0g)
+APK Download link: [https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEkyQts-s2j0g](https://mega.nz/file/vfI1yIqK#l1qijx3TcpcQRepQV6r2-90YBC5CX7hEkyQts-s2j0g)
 
 > Note: The file responsible for sending and fetching data is located at `components/servercon/api.js`. The actual base URL configuration has been omitted for privacy reasons.
+
+
+[REST API](https://github.com/qw87rt/Expressjs--LeaveManagement_restapi)
+
+[Desktop App](https://github.com/qw87rt/VB.NET--LeaveManagementPC)
+
 
 ## Table of Contents
 
