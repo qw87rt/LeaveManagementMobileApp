@@ -1,9 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import { StyleSheet, Text, View, TouchableOpacity, Alert } from 'react-native';
+import { Text, View, TouchableOpacity, StyleSheet, Alert } from 'react-native';
 import { getProfileData, logout } from '../../../components'; // Import the functions
 import { useRouter, Stack } from 'expo-router';
 import {ScreenHeaderBtn} from '../../../components';
 import {icons} from '../../../constants';
+import { styles } from './profileScreenStyles';
+
+
 
 const ProfileScreen = () => {
   const [userData, setUserData] = useState(null); // initial state is null
@@ -114,40 +117,5 @@ const ProfileScreen = () => {
 
 
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: 'white', 
-    padding: 40,
-    justifyContent: 'center',
-  },
-  infoText: {
-    padding: 3,
-    paddingLeft: 30,
-    color: '#2F4F4F', 
-    fontSize: 20,
-    marginVertical: 5,
-    borderColor: '#fc03a1',
-    borderWidth: 2,
-    borderRadius: 12,
-    marginBottom: 10,
-  },
-  labelText:{
-color: '#fc03a1',
-fontWeight: 'bold',
-marginBottom: -3
-  },
-  logoutButton: {
-    backgroundColor: '#fc03a1', //set your button's color
-    padding: 10, // gives the button some room
-    borderRadius: 5, // makes your button rounder
-    justifyContent: 'center', 
-    alignItems: 'center', 
-    marginTop: 20 //5 space from the top of the container
-  },
-  buttonText: {
-    color: 'white', // makes your button text white
-  },
-});
 
 export default ProfileScreen;
